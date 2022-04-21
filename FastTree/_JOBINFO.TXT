@@ -1,0 +1,14 @@
+Task\ label=FastTree
+Task\ ID=2712500
+Tool=FASTTREE_XSEDE
+created\ on=2022-04-20 15:09:15.0
+JobHandle=NGBW-JOB-FASTTREE_XSEDE-E7776832F42647F0900B68A5B913A284
+RunNumber=1
+resource=expanse
+User\ ID=151836
+User\ Name=hjp44
+email=hjp44@drexel.edu
+Output=(all_results,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=4
+JOBID=11654427
