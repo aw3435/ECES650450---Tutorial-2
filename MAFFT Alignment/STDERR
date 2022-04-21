@@ -1,0 +1,14 @@
+CIPRES_THREADSPP=8
+CIPRES_NP=1
+running:
+mafft --progress /expanse/projects/ngbt/backend/expanse_workspace/NGBW-JOB-MAFFT_XSEDE-EF1B64191A544A5F8831C89AE3CE6E08/progress.mafft --thread 8 --reorder --ep 0.0 --auto --treeout input.fasta
+error: process ID out of range
+
+Usage:
+ ps [options]
+
+ Try 'ps --help <simple|list|output|threads|misc|all>'
+  or 'ps --help <s|l|o|t|m|a>'
+ for additional help text.
+
+For more details see ps(1).
